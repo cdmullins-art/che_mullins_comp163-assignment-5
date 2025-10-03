@@ -1,0 +1,15 @@
+For Challenge 1, I used a while loop because the number of steps in the Collatz sequence is unknown. 
+The loop continues until the number reaches 1, which makes it perfect for repeating until a condition is met.  
+For Challenge 2, I used a for loop because the range of numbers to check is known, from 2 up to n-1.  
+This allows the program to efficiently test each possible divisor and determine whether the number is prime or not.  
+For Challenge 3, I used nested loops.  
+The outer loop goes through the rows and the inner loop goes through the columns.  
+This structure makes it easy to generate the multiplication table neatly, with all products aligned correctly.  
+The solutions work by taking a starting number for the Collatz sequence and applying the rules for even and odd numbers while counting steps.  
+For the prime number program, the code checks each divisor to either find a factor or confirm that the number is prime.  
+In the multiplication table challenge, the program prints a header row and then calculates and prints each product row by row, keeping the table aligned.  
+I used AI to help fix indentation and syntax errors so the code runs without any issues. I also used AI to identify which loops should be assigned to which challenge. 
+It also helped me organize strings and format outputs cleanly, especially for the multiplication table.  
+Finally, AI guidance helped me structure the loops in a clear & concise way that makes the code easy to follow and understand.
+
+.
